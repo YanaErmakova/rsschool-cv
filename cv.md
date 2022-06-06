@@ -1,9 +1,9 @@
 # Yana Ermakova
 *****
 ### Contacts
-* Email: simple150015@gmail.com
-* Github: [YanaErmakova](https://github.com/YanaErmakova)
-* Discord: Yana010#0661
+* __Email:__ simple150015@gmail.com
+* __Github:__ [YanaErmakova](https://github.com/YanaErmakova)
+* __Discord:__ Yana010#0661
 *****
 ### About me
 My goal is to become a Front-End Developer
