@@ -12,7 +12,7 @@ My goal is to become a Front-End Developer
 Do not have skills and knowledge in programming
 *****
 ### Work experience
-CV
+[CV](https://github.com/YanaErmakova/rsschool-cv/blob/gh-pages/cv.md)
 *****
 ### Education
 Business college at Novosibirsk state university of economics and management
